@@ -18,6 +18,7 @@
 
 library(XML)
 library(data.table)
+library(ggmap)
 
 # set file paths
 kWorkingDir <- file.path("~","DogWalkGPS")
